@@ -12,4 +12,5 @@ Getting IP address, port information, And the new socket used for receive and se
 Question 5: What is returned by recv() from the server after it is done sending the HTTP request?
 The data received from the client.
 
-
+Q6:
+https://github.com/youwei1-sudo/web404lab2
