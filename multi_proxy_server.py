@@ -51,7 +51,7 @@ def handle_request(conn, addr, proxy_end):
 			break
 		full_data += data
 
-	print(full_data)
+	# print(full_data)
 
 
 	conn.sendall(full_data)

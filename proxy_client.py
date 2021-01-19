@@ -58,7 +58,6 @@ def main():
         full_data = b""
         while True:
             data = s.recv(buffer_size)
-            print(data)
             if not data:
                  break
             full_data += data
